@@ -2,7 +2,7 @@
 
 A list of Google Dorks for Bug Bounty, Web Application Security, and Pentesting
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/blackk_hawkkk.svg?style=social&label=Follow%20%40TakSec)](https://twitter.com/blackk_hawkkk)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/blackk_hawkkk.svg?style=social&label=Follow%20%40blackk_hawkkk)](https://twitter.com/blackk_hawkkk)
 </p>
 
 ---
